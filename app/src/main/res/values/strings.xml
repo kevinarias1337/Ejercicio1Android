@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Taller1</string>
+    <string name="titulo">Cálculo de salario.</string>
+    <string name="cantidadhoras">Ingrese la cantidad de horas trabajadas</string>
+    <string name="valorhoras">Ingrese el valor de las horas trabjadas</string>
+    <string name="boton">Calcular</string>
+</resources>
