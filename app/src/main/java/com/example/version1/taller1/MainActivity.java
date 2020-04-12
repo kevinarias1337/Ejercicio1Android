@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
                 double cantidad = Double.parseDouble(b);
                 double resultado = valor*cantidad;
 
-                Toast.makeText(getApplicationContext(), "El salario total es de: "+resultado, Toast.LENGTH_SHORT);
+                Toast.makeText(getApplicationContext(), "El salario total es de: "+resultado, Toast.LENGTH_SHORT).show();
             }
         });
     }
